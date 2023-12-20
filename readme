@@ -1,0 +1,27 @@
+Passos para usar o projeto myprofile:
+
+
+1 - crie uma pasta para armazenar os projetos
+2 - Vá até a pasta criada
+3 - execute o seguinte comando:
+    npm create vite@latest
+        - ao executar, defina um nome para o projeto (letras minúsculas)
+        - escolha React
+        - escolha JavaScript
+4 - acesse a pasta que foi criada com o nome do que você informou (item 3):
+    - execute: 
+        - npm install
+        - npm install -D sass
+        - npm install react-icons
+
+5 - para executar o projeto, abra o terminal na pasta do projeto e execute:
+    - npm run dev
+    
+  
+O que você precisa:
+vscode
+npm  (npm --version informará a versão)
+node (node --version informará a versão)
+nodejs (nodejs --version informará a versão)
+ 
+ 
